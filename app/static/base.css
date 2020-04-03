@@ -1,0 +1,15 @@
+#nav-menu{
+    display:block;
+    background-color:#428BCA;
+    width:auto;
+    font-size:20px;
+}
+.active{
+    width:130px
+}
+.dropdown-toggle {
+    color:red
+}
+.dropdown-menu{
+    color:red
+}
