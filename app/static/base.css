@@ -1,15 +1,56 @@
+.logo-head{
+    margin-left:300px;
+}
+#menu-id{
+    margin-right:-100px;
+    margin-left:-100px;
+    background-color:#428BCA;
+}
+#menu-id-name{
+    margin-left:85px;
+}
 #nav-menu{
     display:block;
-    background-color:#428BCA;
-    width:auto;
-    font-size:20px;
+    font-size:16px;
+    text-align:center;
 }
-.active{
-    width:130px
+.active-menu{
+    width:140px;
+}
+.col-md-12 column{
+    width:auto
 }
 .dropdown-toggle {
     color:red
 }
 .dropdown-menu{
     color:red
+}
+#myCarousel{
+    height:400px;
+    margin-right:-100px;
+    margin-left:-100px;
+}
+.item active{
+    width:auto;
+}
+.active{
+    width:auto;
+}
+#content-id{
+    margin-top:50px;
+    margin-right:-100px;
+    margin-left:-100px;
+}
+#box-fotter{
+    background-color:#428BCA;
+    height:400px;
+}
+.foot-class{
+    color: #fff
+}
+
+#box-footer-sub1{
+    margin-left:300px;
+    margin-right:300px;
 }
