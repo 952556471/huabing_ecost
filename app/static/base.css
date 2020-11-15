@@ -33,6 +33,7 @@
 }
 .item active{
     width:auto;
+    margin:50px auto ;
 }
 .active{
     width:auto;
